@@ -1,0 +1,22 @@
+{
+  "formatter": {
+    "enabled": true,
+    "formatWithErrors": false,
+    "indentStyle": "tab",
+    "indentSize": 2,
+    "lineWidth": 80,
+    "ignore": []
+  },
+  "linter": {
+    "enabled": true,
+    "rules": {
+      "suspicious": {
+        "noDoubleEquals": "off"
+      },
+      "nursery": {
+        "noExtraSemicolons": "warn",
+        "noInferrableTypes": "off"
+      }
+    }
+  }
+}
