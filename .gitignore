@@ -19,6 +19,7 @@ dist-ssr
 .env
 # 追加
 *.lock
+.work
 
 # Editor directories and files
 .vscode/*
